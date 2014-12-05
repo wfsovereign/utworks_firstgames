@@ -10,7 +10,7 @@
 [源代码库](https://github.com/wfsovereign)
 ![](./image/F.jpg)
 
-```
+``` javacript
 
  function CompareNumber(){
 
@@ -44,3 +44,6 @@ CompareNumber.prototype.compares = function(input,answer){
 };
 
 ```
+|学员名字        | 性别   |  年龄  |
+| --------   | -----:  | :----:  |
+| 冯杨琦君    | 男 |   21     |
