@@ -44,8 +44,9 @@ CompareNumber.prototype.compares = function(input,answer){
 };
 
 ```
+$$\sum_{i=1}^n a_i=0$$
 |学员名字        | 性别   |  年龄  |
 | --------   | -----:  | :----:  |
 | 冯杨琦君    | 男 |   21     |
 
-$$\sum_{i=1}^n a_i=0$$
+
