@@ -47,5 +47,5 @@ CompareNumber.prototype.compares = function(input,answer){
 |学员名字        | 性别   |  年龄  |
 | --------   | -----:  | :----:  |
 | 冯杨琦君    | 男 |   21     |
-
+> 逆水行舟
 f(x,y,z) = 3y^2z\left(3+\frac{7x+5}{1+y^2}\right)
