@@ -10,7 +10,7 @@
 [源代码库](https://github.com/wfsovereign)
 ![](./F.jpg)
 
->function CompareNumber(){
+``` function CompareNumber(){
 
 }
 
@@ -40,3 +40,4 @@ CompareNumber.prototype.compares = function(input,answer){
     result= a_count+"A"+b_count+"B";
     return result;
 };
+```
